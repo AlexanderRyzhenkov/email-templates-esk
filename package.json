@@ -1,0 +1,32 @@
+{
+  "name": "email-templates-esk",
+  "version": "1.0.0",
+  "description": "This is the simple kit for easy start to make HTML email templates.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderRyzhenkov/email-templates-esk.git"
+  },
+  "keywords": [
+    "email",
+    "templates",
+    "mailchimp"
+  ],
+  "author": "Alexander Ryzhenkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexanderRyzhenkov/email-templates-esk/issues"
+  },
+  "homepage": "https://github.com/AlexanderRyzhenkov/email-templates-esk#readme",
+  "dependencies": {
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-inline-css": "^4.0.0",
+    "gulp-pug": "^1.3.1",
+    "gulp-sass": "^4.1.0",
+    "node-sass": "^4.14.1"
+  }
+}
